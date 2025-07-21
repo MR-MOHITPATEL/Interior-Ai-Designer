@@ -13,7 +13,7 @@ Realism Control: Adjustable transformation strength and style guidance sliders.
 Download Functionality: Allows users to download generated design images.
 
 Installation:
-Clone the repository: git clone <repository-url>
+Clone the repository: git clone (https://github.com/MR-MOHITPATEL/Interior-Ai-Designer.git)
 Navigate to the project directory: cd interior-design-app
 
 Install Python dependencies: pip install -r requirements.txt (
